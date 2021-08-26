@@ -1,12 +1,3 @@
-// Resources
-/*
-// --------------------------------------------------------------------
-// for the yoda developers out there
-// https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
-
-// https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserverEntry/isIntersecting
-// --------------------------------------------------------------------
-*/
 const sections = document.querySelectorAll("section");
 const trans = document.querySelector(".trans");
 const gradients = ["coral", "chartreuse", "chocolate", "cadetblue"];

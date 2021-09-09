@@ -55,11 +55,6 @@ section img {
   object-fit: cover;
 }
 
-/*   color: coral;
-  color: chartreuse;
-  color: chocolate;
-  color: cadetblue; */
-
 .trans {
   position: absolute;
   z-index: -10;
